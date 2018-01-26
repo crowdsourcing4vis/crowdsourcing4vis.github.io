@@ -1,3 +1,8 @@
+
+---
+title: raw Data
+datatable: true
+---
 <div class="datatable-begin"></div>
 
 original.order|Title|Authors|Venue|Year|URL|Experiment_number|Type Between|Type Within|Type Mixed|Length (mins)|Participant Prerequisites|Colorblindness|Pre-Test Qualification|Training|dummy questions|Task Type|Participants total|Participants valid|Participants per condition|Female percentage|USA only|USA:India:Europe:other %|Age reported|Age range|Age mean|Platform for Recruitment|Device & Software Restrictions|Measure time|Measure error|Measure confidence|Measure numeracy abilities|Measure spatial abilities|Measure other|Vis static|Vis interactive|Payment type|Payment|Bonus|Detect Inattentive Participants|Prevent Multiple Participation|Available Experiment material|Available Collected Data
