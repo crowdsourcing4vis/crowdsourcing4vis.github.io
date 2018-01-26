@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Crowdsourcing4Vis
 description: A resource page for a Eurovis 2018  State of the Art Report (STAR) on the to use of crowdsourcing in information visualization for evaluation.
+datatable: true
