@@ -12,4 +12,4 @@ Bongshin Lee, Microsoft Research, USA
 
 
 ## Download
-The raw survey data is downloadable as a tab delimited text  file  here
+The raw survey data is downloadable as a tab delimited text  file  [here](Crowdsourcing4Vis_papers.txt)
