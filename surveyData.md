@@ -78,7 +78,7 @@ index|Title|Authors|Year
 76|[Finding a Clear Path: Structuring Strategies for Visualization Sequences](https://research.tableau.com/sites/default/files/Hullman-EuroVis-2017.pdf)|Jessica Hullman, Robert Kosara, and Heidi Lam|2017
 77|[Visual Narrative Flow: Exploring Factors Shaping Data Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publications/narrative-flow.pdf)|S. McKenna, N. Henry Riche, B. Lee, J. Boy, & M. Meyer|2017
 78|[Readability and Precision in Pictorial Bar Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2017.pdf)|Drew Skau and Robert Kosara|2017
-79|[Fauxvea: Crowdsourcing Gaze Location Estimates for Visualization Analysis Tasks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7414495)||2016
+79|[Fauxvea: Crowdsourcing Gaze Location Estimates for Visualization Analysis Tasks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7414495)|S. R. Gomez, R. Jianu, R. Cabeen, H. Guo and D. H. Laidlaw|2016
 80|[Towards Perceptual Optimization of the Visual Design of Scatterplots](http://ieeexplore.ieee.org/abstract/document/7864468/)|Luana Micallef, Gregorio Palmas, Antti Oulasvirta, and Tino Weinkauf|2017
 81|[Blinded with Science or Informed by Charts? A Replication Study](http://hal.upmc.fr/hal-01580259/document)|Pierre Dragicevic, Yvonne Jansen|2017
 82|[Taking Word Clouds Apart: An Empirical Investigation of the Design Space for Keyword Summaries](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8017641)|Cristian Felix, Steven Franconeri and Enrico Bertini|2017
