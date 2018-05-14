@@ -1,6 +1,6 @@
-## A Decade of Crowdsourcing in Information Visualization
+## Information Visualization Evaluation Using Crowdsourcing
 
-This website specifies the full list of papers included in our survey titled "A Decade of Crowdsourcing in Information Visualization"on crowdsouring for evaluation in the information visualization community.
+This website specifies the full list of papers included in our survey titled "Information Visualization Evaluation Using Crowdsourcing" on crowdsourcing for evaluation in the information visualization community.
 
 ## Authors
 
@@ -15,7 +15,7 @@ Fintan McGee, eScience Unit, Luxembourg Institute of Science and Technology, Lux
 Bongshin Lee, Microsoft Research, USA
 
 
-An editable version of the suggested study reporting template is available here MS word Format): [here](Crowdsourcing4Vis_study_reporting_template.doc)
+An editable version of the suggested study reporting template is available here (MS word Format): [here](Crowdsourcing4Vis_study_reporting_template.doc)
 
 ## Survey Papers
 
