@@ -15,6 +15,8 @@ Fintan McGee, eScience Unit, Luxembourg Institute of Science and Technology, Lux
 Bongshin Lee, Microsoft Research, USA
 
 
+The checklist is available here:
+
 ## Survey Papers
 
 The raw survey data, including the coding of the papers, is downloadable as a tab delimited text  file  [here](Crowdsourcing4Vis_papers.txt)
