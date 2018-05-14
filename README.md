@@ -15,7 +15,7 @@ Fintan McGee, eScience Unit, Luxembourg Institute of Science and Technology, Lux
 Bongshin Lee, Microsoft Research, USA
 
 
-The checklist is available here:
+An editable version of the suggested study reporting template is available here MS word Format): [here](Crowdsourcing4Vis_study_reporting_template.doc)
 
 ## Survey Papers
 
