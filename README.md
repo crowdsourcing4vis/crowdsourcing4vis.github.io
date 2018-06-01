@@ -21,8 +21,10 @@ An latex version of the suggested study reporting template is available here (.t
 
 ## Authors
 As part of our Eurovis 2018 STAR presentation we will be discussing two papers as a group exercise.
+
  [Paper1](paper1.pdf)
- [Paper2](paper2.pdf)  [Paper2 supplementary materials](paper2_supplement.pdf)
+ 
+ [Paper2](paper2.pdf)      [Paper2 supplementary materials](paper2_supplement.pdf)
 
 
 ## Survey Papers
