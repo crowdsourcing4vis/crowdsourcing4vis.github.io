@@ -6,9 +6,9 @@ This website specifies the full list of papers included in our survey titled "In
 
 Rita Borgo, Informatics Department, Kings’s College London, United Kingdom
 
-Benjamin  Bach, School of Informatics, University of Edinburgh, United Kingdom
-
 Luana Micallef, Helsinki Institute for Information Technology HIIT, Aalto University, Finland
+
+Benjamin  Bach, School of Informatics, University of Edinburgh, United Kingdom
 
 Fintan McGee, eScience Unit, Luxembourg Institute of Science and Technology, Luxembourg
 
@@ -16,6 +16,8 @@ Bongshin Lee, Microsoft Research, USA
 
 
 An editable version of the suggested study reporting template is available here (MS word Format): [here](Crowdsourcing4Vis_study_reporting_template.doc)
+
+An latex version of the suggested study reporting template is available here (.tex file): [here](table_reporting_form.tex)
 
 ## Survey Papers
 
