@@ -19,6 +19,12 @@ An editable version of the suggested study reporting template is available here 
 
 An latex version of the suggested study reporting template is available here (.tex file): [here](table_reporting_form.tex)
 
+## Authors
+As part of our Eurovis 2018 STAR presentation we will be discussing two papers as a group exercise.
+ [Paper1](paper1.pdf)
+ [Paper2](paper2.pdf)  [Paper2 supplementary materials](paper2_supplement.pdf)
+
+
 ## Survey Papers
 
 The raw survey data, including the coding of the papers, is downloadable as a tab delimited text  file  [here](Crowdsourcing4Vis_papers.txt)
