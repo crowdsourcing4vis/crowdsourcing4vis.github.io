@@ -15,11 +15,14 @@ Fintan McGee, eScience Unit, Luxembourg Institute of Science and Technology, Lux
 Bongshin Lee, Microsoft Research, USA
 
 
+
+## Study Reporting Template
 An editable version of the suggested study reporting template is available here (MS word Format): [here](Crowdsourcing4Vis_study_reporting_template.doc)
 
 An latex version of the suggested study reporting template is available here (.tex file): [here](table_reporting_form.tex)
 
-## Authors
+
+## STAR Group Exercise
 As part of our Eurovis 2018 STAR presentation we will be discussing two papers as a group exercise.
 
  [Paper1](paper1.pdf)
