@@ -29,6 +29,7 @@ As part of our Eurovis 2018 STAR presentation we will be discussing two papers a
  
  [Paper2](paper2.pdf)  &nbsp;&nbsp;&nbsp;&nbsp;  [Paper2 supplementary materials](paper2_supplement.pdf)
 
+[Dimensions List](dimensions.pdf)
 
 ## Survey Papers
 
