@@ -10,7 +10,7 @@ Luana Micallef, Helsinki Institute for Information Technology HIIT, Aalto Univer
 
 Benjamin  Bach, School of Informatics, University of Edinburgh, United Kingdom
 
-Fintan McGee, eScience Unit, Luxembourg Institute of Science and Technology, Luxembourg
+Fintan McGee, Environmental Informatics Unit, Luxembourg Institute of Science and Technology, Luxembourg
 
 Bongshin Lee, Microsoft Research, USA
 
